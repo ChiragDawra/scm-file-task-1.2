@@ -1,0 +1,7 @@
+// ignore this
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
